@@ -61,7 +61,7 @@ This open-source project is designed for developers, gamers, and educators inter
 Contributions are welcome! Fork the repo, create a feature branch, and submit a pull request. For major changes, open an issue to discuss your ideas.
 
 ## Sponsorship
-Support TideSculpt’s development through [GitHub Sponsors](https://github.com/sponsors/yourusername)! Your contributions fund:
+Support TideSculpt’s development through [GitHub Sponsors](https://github.com/sponsors/samdshaba)! Your contributions fund:
 - New hazard types and level designs.
 - Enhanced current mechanics and visual effects.
 - Tutorials for C++ and fluid dynamics in games.
